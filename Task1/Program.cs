@@ -13,8 +13,10 @@ int max=numberA;
 int min=numberB;
 
 if (numberA>numberB)
+{
 Console.WriteLine($"max={numberA} min={numberB}");
-
+}
 else
-
+{
 Console.WriteLine($"max={numberB} min={numberA}"); 
+}
