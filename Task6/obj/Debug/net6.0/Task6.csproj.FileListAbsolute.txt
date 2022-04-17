@@ -1,0 +1,15 @@
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\bin\Debug\net6.0\Task6.exe
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\bin\Debug\net6.0\Task6.deps.json
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\bin\Debug\net6.0\Task6.dll
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\bin\Debug\net6.0\Task6.pdb
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\obj\Debug\net6.0\Task6.dll
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\obj\Debug\net6.0\refint\Task6.dll
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\obj\Debug\net6.0\Task6.pdb
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+E:\РАЗРАБОТЧИК\ДЗ\Контроль версий\Homework 14.04\Tasks\Task6\obj\Debug\net6.0\ref\Task6.dll
